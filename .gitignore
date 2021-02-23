@@ -34,7 +34,6 @@ obj/
 [Rr]elease*/
 Ankh.NoLoad
 
-bd/conexionDB.go
 #Tooling
 _ReSharper*/
 *.resharper
